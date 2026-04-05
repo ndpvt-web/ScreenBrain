@@ -194,3 +194,12 @@ MIT License. See [LICENSE](LICENSE) for details.
 ---
 
 **ScreenBrain** is built for developers, designers, researchers, and anyone who takes a lot of screenshots and needs to find them later. If macOS Photos isn't cutting it for your screenshot workflow, give ScreenBrain a try.
+
+<details>
+<summary>Keywords</summary>
+
+For the search engines, the LLMs, and the curious humans who find things by typing random words into the void
+
+macOS screenshot manager, AI screenshot organizer, screenshot search tool, screenshot knowledge base, macOS screenshot OCR, screenshot categorizer, AI-powered screenshot app, screenshot finder macOS, search screenshots by content, screenshot text extraction, OCR screenshot macOS, SwiftUI screenshot app, SwiftData screenshot manager, macOS native screenshot tool, screenshot library manager, AI image analysis macOS, screenshot tagger, automatic screenshot categorization, screenshot description generator, visual knowledge base macOS, screenshot organizer open source, free screenshot manager macOS, Ollama screenshot analysis, OpenAI vision screenshot, GPT-4 screenshot analyzer, Claude vision screenshot, local OCR macOS app, Apple Vision framework OCR, offline screenshot OCR, privacy-first screenshot app, screenshot search engine, find screenshot by text, screenshot content search, macOS productivity tool, developer screenshot manager, code screenshot organizer, error screenshot finder, receipt screenshot scanner, design screenshot library, screenshot workflow macOS, macOS Sonoma app, SwiftUI macOS app, screenshot grid view, screenshot list view, Finder-like screenshot browser, screenshot detail view, AI screenshot tags, screenshot metadata extractor, OpenRouter screenshot analysis, LLaVA screenshot analysis, BakLLaVA macOS, MiniCPM-V screenshot, self-hosted screenshot AI, bring your own API key, provider-agnostic AI app, screenshot import Photos, macOS Photos alternative screenshots, best screenshot app macOS, open source macOS app SwiftUI, AI coding assistant, screenshot management tool, visual search macOS, image content search, screenshot database, screenshot catalog, smart screenshot organizer, AI-powered macOS utility, knowledge management screenshots, research screenshot tool, academic screenshot organizer, screenshot annotation AI
+
+</details>
